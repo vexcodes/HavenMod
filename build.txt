@@ -1,0 +1,3 @@
+author = Fortanono
+version = 0.1
+displayName = Haven Mod
