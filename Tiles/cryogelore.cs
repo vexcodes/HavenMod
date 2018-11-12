@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 using Terraria.ID;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace HavenMod.Items.Tiles
+namespace HavenMod.Tiles
 {
     public class cryogelore : ModTile
     {
